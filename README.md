@@ -10,8 +10,9 @@ The pandemic modeler project presents the interface to the user in order the han
 - Simulation Speed.
 
 The program takes these parameters, and “models” a simulation of a virus spreading in the population according to 
-the parameters given by the user. Each person is represented by a moving dot, their color decided by their 
-immunity level, infected status (red if infected) and mortality (black), in which state the dot is also stationary.
+the parameters given by the user. Each person is represented by a moving dot in a sumulation panel, their color 
+decided by their  immunity level, infected status (red if infected) and mortality (black), in which state the 
+dot is also stationary.
 
 I've personally taken great interest developing this project, and I found it very interesting to watch a virus spread
 through a population, and I've tried the application over and over again with different parameters. It's both fun to

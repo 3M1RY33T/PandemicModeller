@@ -1,4 +1,4 @@
-# PandemicModeller
+# Pandemic Modeller
 
 This project is developed with Java and JavaFX, using Eclipse IDE.
  
